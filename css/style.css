@@ -21,7 +21,15 @@
  
  
  */
-header {}
+
+body{
+    background-color: #48203D;
+    /* color: #57603D; */
+    color:azure
+}
+header {
+    
+}
 section {}
 article{}
 footer{}
