@@ -25,7 +25,9 @@
 body{
     background-color: #48203D;
     /* color: #57603D; */
-    color:azure
+    color:azure;
+    font-family: 'Montserrat', sans-serif;
+    
 }
 header {
     
