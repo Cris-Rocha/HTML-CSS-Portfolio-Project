@@ -29,6 +29,18 @@ body{
     font-family: 'Montserrat', sans-serif;
     
 }
+h2.major{
+        padding-bottom: 1em;
+         border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+}
+p{
+        display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+}
 header {
     
 }
