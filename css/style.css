@@ -32,6 +32,15 @@ body{
 header {
     
 }
-section {}
-article{}
-footer{}
+#banner {
+    padding: 5em 2em 4.25em 2em;
+    margin-bottom: -2.5em;
+    background-color: #445318;
+}
+/* section {}
+article{} */
+
+footer{
+    text-align: center;
+
+}
